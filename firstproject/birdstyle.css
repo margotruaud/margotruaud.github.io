@@ -1,6 +1,6 @@
 @font-face {
 	font-family: "Antique";
-	src: url('../style/RomanAntique.ttf');
+	src: url('./RomanAntique.ttf');
 }
 
 body{
